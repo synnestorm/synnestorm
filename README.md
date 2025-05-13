@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @synnestorm
 - 👀 I’m interested in traveling, books and movies, and games!
-- 🌱 I’m currently learning Javascript!
+- 🌱 I’m currently learning JavaScript!
 
 <!---
 synnestorm/synnestorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
