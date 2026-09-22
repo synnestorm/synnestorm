@@ -3,7 +3,7 @@ Studying frontend development & passionate about building modern and responsive 
 
 ### About me
 - 🎓 Frontend developer student
-- 🌱 Currently learning vanilla JavaScript!
+- 🌱 Currently learning JavaScript and TypeScript!
 - 👀 I'm interested in travel, reading books and watch movies!
 
 ### Tech Stack
