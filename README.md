@@ -14,8 +14,8 @@ Studying frontend development & passionate about building modern and responsive 
 - Git & Github
 
 ### Featured Projects
-- Semester Project 1: [Community Science Museum](https://synnestorm.github.io/semester-project-museum)
-- Project Exam 1: [Eonline - E-commerce web application](https://synnestorm.github.io/project-exam-one)
+- [Project Exam 1: Eonline - E-commerce web application](https://synnestorm.github.io/project-exam-one)
+- [Semester Project 1: Community Science Museum](https://synnestorm.github.io/semester-project-museum)
 
 ### Thanks for visiting my profile!
 
